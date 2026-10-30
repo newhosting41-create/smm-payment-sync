@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMM Payment Sync</string>
+    <string name="website_label">smartrentalbd.com</string>
+    <string name="website_url">https://smartrentalbd.com</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_dashboard" android:icon="@drawable/ic_dash" android:title="Dashboard" />
+        <item android:id="@+id/nav_success" android:icon="@drawable/ic_ok" android:title="Success" />
+        <item android:id="@+id/nav_pending" android:icon="@drawable/ic_wait" android:title="Pending / Not Sent" />
+        <item android:id="@+id/nav_manual" android:icon="@drawable/ic_send" android:title="Send SMS Manually" />
+        <item android:id="@+id/nav_settings" android:icon="@drawable/ic_lock" android:title="Device Settings" />
+        <item android:id="@+id/nav_about" android:icon="@drawable/ic_info" android:title="About" />
+    </group>
+</menu>
